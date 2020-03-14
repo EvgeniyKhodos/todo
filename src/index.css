@@ -79,6 +79,10 @@ code {
   justify-content: space-between;
 }
 
+.task img {
+  width: 30px;
+}
+
 .task:hover {
   background-color: #04395e3d;
 }
